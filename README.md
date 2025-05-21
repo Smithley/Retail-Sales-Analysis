@@ -1,7 +1,12 @@
 # Retail-Sales-Analysis
 Power BI Analysis
 
-# Project Objective
+c Project Objective
 - Total Sales
 - Total Quantity
 - Total Customers
+- New-category By Product Category
+- Total Amount By Gender
+
+ # Project Dashboard 
+![]()
