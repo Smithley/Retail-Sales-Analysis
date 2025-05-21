@@ -9,4 +9,4 @@ c Project Objective
 - Total Amount By Gender
 
  # Project Dashboard 
-![]()
+![](https://github.com/Smithley/Retail-Sales-Analysis/blob/main/RETAIL%20SALES%20ANALYSIS%20DASHBOARD.JPG)
